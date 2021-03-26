@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tracid56)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![](https://github.com/tracid56/generateprofile/raw/master/profile-summary-card-output/monokai/0-profile-details.svg)
 ![](https://github.com/tracid56/generateprofile/raw/master/profile-summary-card-output/monokai/1-repos-per-language.svg)
 ![](https://github.com/tracid56/generateprofile/raw/master/profile-summary-card-output/monokai/2-most-commit-language.svg)
