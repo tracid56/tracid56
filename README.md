@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tracid56)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![](https://github.com/tracid56/generateprofile/raw/master/profile-summary-card-output/monokai/0-profile-details.svg)
 ![](https://github.com/tracid56/generateprofile/raw/master/profile-summary-card-output/monokai/1-repos-per-language.svg)
 ![](https://github.com/tracid56/generateprofile/raw/master/profile-summary-card-output/monokai/2-most-commit-language.svg)
@@ -14,6 +12,9 @@
 
 ![](https://github.com/tracid56/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/tracid56/github-stats/blob/master/generated/languages.svg)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tracid56)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--
 **tracid56/tracid56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
