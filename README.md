@@ -25,5 +25,3 @@
 - 💬 Ask me about #AnyCyberSecurityQuestion
 - 📫 How to reach me: Discord: Tracid#5857
 - ⚡ Fun fact: ...
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tracid56)](https://github.com/DenverCoder1/github-readme-streak-stats)
