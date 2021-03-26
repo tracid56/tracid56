@@ -2,6 +2,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tracid56&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+https://profile-summary-for-github.com/user/tracid56
+
 <!--
 **tracid56/tracid56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
