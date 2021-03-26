@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-[![trophy](https://github-profile-trophy.vercel.app/?tracid56=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=tracid56)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **tracid56/tracid56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
