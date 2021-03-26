@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tracid56&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github.com/tracid56/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/tracid56/github-stats/blob/master/generated/languages.svg)
